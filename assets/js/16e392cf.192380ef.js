@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[2625],{64497:function(e){e.exports=JSON.parse('{"title":"Recipes","keywords":["recipes"],"slug":"/recipes","permalink":"/docs/5.5/recipes","navigation":{"previous":{"title":"Usage with MongoDB","permalink":"/docs/5.5/usage-with-mongo"},"next":{"title":"Quick Start","permalink":"/docs/5.5/quick-start"}}}')}}]);
